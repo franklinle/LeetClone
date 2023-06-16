@@ -3,12 +3,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA6WSZhwgvnlnwlCk_ddAy4NBTa3_SGDsg",
-  authDomain: "leetclone-1e0e0.firebaseapp.com",
-  projectId: "leetclone-1e0e0",
-  storageBucket: "leetclone-1e0e0.appspot.com",
-  messagingSenderId: "68057499387",
-  appId: "1:68057499387:web:78429322921f9a598ed25e",
+  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
 };
 
 const app = !getApps.length ? initializeApp(firebaseConfig) : getApp();
