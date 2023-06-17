@@ -9,7 +9,7 @@ git clone https://github.com/franklinle/LeetClone.git
 ### Install the required libraries:
 
 ```
-npm i
+npm install
 ```
 
 ### Start the development server:
