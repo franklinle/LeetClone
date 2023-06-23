@@ -20,4 +20,4 @@ npm run dev
 
 ### Customize configuration
 
-See [Next.js Documentation](https://nextjs.org/docs).
+See [Next.js Documentation](https://nextjs.org/docs)
