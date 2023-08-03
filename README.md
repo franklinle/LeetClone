@@ -12,7 +12,7 @@ git clone https://github.com/franklinle/LeetClone.git
 npm install
 ```
 
-### Add and update your .env file (Obtain these keys through Firebase:
+### Add and update your .env file (Obtain these keys through Firebase):
 
 ```
 NEXT_PUBLIC_FIREBASE_API_KEY=YOUR_FIREBASE_API_KEY
