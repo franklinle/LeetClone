@@ -14,7 +14,7 @@ export const problems: Problem[] = [
     difficulty: "Easy",
     category: "Array",
     order: 1,
-    videoId: "8-k1C6ehKuw",
+    videoId: "KLlXCFG5TnA",
   },
   {
     id: "reverse-linked-list",
@@ -22,7 +22,7 @@ export const problems: Problem[] = [
     difficulty: "Hard",
     category: "Linked List",
     order: 2,
-    videoId: "",
+    videoId: "G0_I-ZF0S38",
   },
   {
     id: "jump-game",
@@ -38,7 +38,7 @@ export const problems: Problem[] = [
     difficulty: "Easy",
     category: "Stack",
     order: 4,
-    videoId: "xty7fr-k0TU",
+    videoId: "WTzjTskDFMg",
   },
   {
     id: "search-a-2d-matrix",
