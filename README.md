@@ -31,5 +31,5 @@ npm run dev
 
 ### Customize configuration
 
-See [Next.js Documentation](https://nextjs.org/docs)
+See [Next.js Documentation](https://nextjs.org/docs)<br>
 See [Firebase Documentation](https://firebase.google.com/docs/hosting/frameworks/nextjs)
